@@ -1,0 +1,23 @@
+Description,alpha,half_life,stage,count
+ribosome assembly,0.020490674,56.14342848,72h,13
+oxidative phosphorylation,0.023996582,28.46753922,72h,21
+protein stabilization,0.066998725,20.89099134,72h,17
+regulation of mRNA stability,0.045621988,20.11245037,72h,9
+leukocyte cell-cell adhesion,0.082955609,10.84420369,72h,33
+positive regulation of phagocytosis,0.043164003,13.75816087,72h,20
+cellular response to type I interferon,0.143822114,7.368248355,72h,10
+positive regulation of leukocyte chemotaxis,0.122111326,9.91872383,72h,10
+antigen processing and presentation of peptide antigen via MHC class II,0.158518785,9.516206896,72h,11
+acute-phase response,0.19232326,4.483258227,72h,4
+defense response to bacterium,0.182505628,5.09107123,6h,5
+regulation of mRNA metabolic process,0.137758134,3.66894656,6h,5
+RNA splicing,0.146961563,3.35749404,6h,4
+vesicle organization,0.26560233,3.041023242,6h,5
+toll-like receptor signaling pathway,0.872796001,2.502829702,6h,7
+response to tumor necrosis factor,0.958532942,2.109221348,6h,6
+response to interleukin-1,0.464524127,1.988008344,6h,6
+regulation of DNA-binding transcription factor activity,2.033158815,0.901768363,6h,7
+I-kappaB kinase/NF-kappaB signaling,1.227730695,1.10852989,6h,5
+regulation of inflammatory response,1.139241629,1.221203532,6h,6
+leukocyte chemotaxis,0.633845167,1.386898537,6h,8
+positive regulation of secretion,0.24304954,3.055160679,6h,6
